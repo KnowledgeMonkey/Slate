@@ -1,0 +1,14 @@
+D:\VSCODEPROJ\sources\slate\slate\bin\x64\Release\slate.exe.config
+D:\VSCODEPROJ\sources\slate\slate\bin\x64\Release\slate.exe
+D:\VSCODEPROJ\sources\slate\slate\bin\x64\Release\slate.pdb
+D:\VSCODEPROJ\sources\slate\slate\bin\x64\Release\CuoreUI.dll
+D:\VSCODEPROJ\sources\slate\slate\bin\x64\Release\FastColoredTextBox.dll
+D:\VSCODEPROJ\sources\slate\slate\bin\x64\Release\Guna.UI2.dll
+D:\VSCODEPROJ\sources\slate\slate\obj\x64\Release\slate.csproj.AssemblyReference.cache
+D:\VSCODEPROJ\sources\slate\slate\obj\x64\Release\slate.Form1.resources
+D:\VSCODEPROJ\sources\slate\slate\obj\x64\Release\slate.Properties.Resources.resources
+D:\VSCODEPROJ\sources\slate\slate\obj\x64\Release\slate.csproj.GenerateResource.cache
+D:\VSCODEPROJ\sources\slate\slate\obj\x64\Release\slate.csproj.CoreCompileInputs.cache
+D:\VSCODEPROJ\sources\slate\slate\obj\x64\Release\slate.csproj.Up2Date
+D:\VSCODEPROJ\sources\slate\slate\obj\x64\Release\slate.exe
+D:\VSCODEPROJ\sources\slate\slate\obj\x64\Release\slate.pdb

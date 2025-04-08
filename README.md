@@ -1,3 +1,5 @@
+![Slate Banner](./banner.jpg)
+
 # 📝 Slate - Notepad Clone
 
 ![Made with C#](https://img.shields.io/badge/Made%20with-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)

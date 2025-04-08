@@ -31,7 +31,7 @@ Slate comes with a Windows installer so you can get started right away.
 
 ### 🚀 How to Install
 
-1. [Download the installer](#) 
+1. [Download the installer](https://github.com/KnowledgeMonkey/Slate/releases/tag/V1) 
 2. Run the `Setup.exe` or `Setup.msi` file
 3. Follow the installer instructions
 4. Launch **Slate** from your Start Menu or Desktop Shortcut
@@ -41,7 +41,7 @@ Slate comes with a Windows installer so you can get started right away.
 ## 🖼 UI Preview
 
 > Example:
-> ![Slate Screenshot](screenshots/slate_ui.png)
+> ![Slate Screenshot](screenshots/ui1.png)
 
 ---
 

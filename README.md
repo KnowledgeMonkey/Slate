@@ -63,6 +63,3 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 ⭐️ *Star this repo to show your support!*  
 ```
 
----
-
-Let me know if you want the badges styled differently or want a dark-themed screenshot block added. I can also help make a logo or design a README banner if you’d like!
